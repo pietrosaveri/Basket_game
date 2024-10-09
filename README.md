@@ -24,4 +24,4 @@ The game uses Pygame, a Python library that allows you to build games and multim
 - **Gravity:** A constant force applied to the ball during its flight.
 
 ### Run the game
-'game.py'
+``` game.py ```
