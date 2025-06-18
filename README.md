@@ -14,8 +14,8 @@ The goal of the game is to adjust the trajectory (angle) and set the right force
 - **Score tracking:** Players can keep track of their successful throws.
 
 ### GamePlay
+While Shooting <img width="1012" alt="Screenshot 2025-06-18 at 13 31 03" src="https://github.com/user-attachments/assets/e512fb39-9bb0-4ca3-989d-9e821f792775" />
 
-![While Shooting]<img width="1012" alt="Screenshot 2025-06-18 at 13 31 03" src="https://github.com/user-attachments/assets/9e7f0ecf-d060-4426-93cf-eeef64c6dd8f" />
 
 ### How It Works
 
