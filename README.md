@@ -13,6 +13,10 @@ The goal of the game is to adjust the trajectory (angle) and set the right force
 - **Simple visuals:** The game uses basic 2D graphics to represent the ball, basket, and environment.
 - **Score tracking:** Players can keep track of their successful throws.
 
+### GamePlay
+
+![While Shooting]<img width="1012" alt="Screenshot 2025-06-18 at 13 31 03" src="https://github.com/user-attachments/assets/9e7f0ecf-d060-4426-93cf-eeef64c6dd8f" />
+
 ### How It Works
 
 The game uses Pygame, a Python library that allows you to build games and multimedia applications. The ball is launched based on the force and angle set by the player, and its movement is influenced by gravity, which pulls it downward as it travels through the air.
